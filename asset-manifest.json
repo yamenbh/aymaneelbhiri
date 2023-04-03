@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aymaneelbhiri/static/css/main.abd64e84.css",
+    "main.js": "/aymaneelbhiri/static/js/main.29617cc3.js",
+    "index.html": "/aymaneelbhiri/index.html",
+    "main.abd64e84.css.map": "/aymaneelbhiri/static/css/main.abd64e84.css.map",
+    "main.29617cc3.js.map": "/aymaneelbhiri/static/js/main.29617cc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.29617cc3.js"
+  ]
+}
