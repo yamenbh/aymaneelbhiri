@@ -2,6 +2,10 @@ import { Link as LinkR } from 'react-router-dom';
 import styled from 'styled-components';
 import _default from '../../themes/default';
 
+export const ColorText = styled.div`
+  color: ${({ theme }) => theme.primary};
+  font-size: 32px;
+`;
 export const Nav = styled.div`
     background-color: ${({theme}) => theme.card_light};
     height: 80px;
@@ -12,6 +16,7 @@ export const Nav = styled.div`
     position: sticky;
     top: 0;
     z-index: 10;
+    color: white;
     @media (max-width: 960px) {
         trastion: 0.8s all ease;
     }
@@ -34,6 +39,8 @@ export const NavLogo = styled(LinkR)`
     justify-content: start;
     align-items: center;
     text-decoration: none;
+    color: inherit;
+    font-size: 18px;
     @media (max-width: 640px) {
       padding: 0 0px;
   }
