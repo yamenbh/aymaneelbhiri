@@ -357,7 +357,7 @@ export const projects = [
     title: "LESMARMITES",
     date: "2025 - 2025",
     description:
-      "J'ai créé le site lesmarmites, une plateforme innovante qui connecte des cuisiniers locaux passionnés avec des touristes à la recherche d'expériences culinaires authentiques. L'objectif était de concevoir une interface intuitive et conviviale, permettant aux visiteurs de découvrir des repas faits maison, de réserver facilement une expérience gastronomique, et d'entrer en contact direct avec les cuisiniers.Le site inclut des profils détaillés des cuisiniers, des options de réservation, un système de messagerie, et une section dédiée aux avis clients. Le design met l'accent sur l'authenticité, la confiance, et l'expérience humaine, tout en étant responsive et optimisé pour tous les types d'appareils.",
+      "I created the website lesmarmites, an innovative platform that connects passionate local cooks with tourists seeking authentic culinary experiences. The goal was to design an intuitive and user-friendly interface, allowing visitors to discover home-cooked meals, easily book a dining experience, and connect directly with the cooks. The site includes detailed cook profiles, reservation options, a messaging system, and a dedicated customer reviews section. The design emphasizes authenticity, trust, and the human experience, while being responsive and optimized for all types of devices.",
     image: require("../images/lesmarmites.png"),
     tags: [
       "Wordpress",
