@@ -1,7 +1,7 @@
 {
   "name": "aymaneelbhiri",
   "version": "0.1.0",
-  "homepage": "https://aymaneelbhiri.github.io",
+  "homepage": "https://aymaneelbhiri.github.io/aymaneelbhiri",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -21,7 +21,6 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.7",
-    "rishav-chanda-portfolio": "file:",
     "styled": "^1.0.0",
     "styled-components": "^5.3.5",
     "typewriter-effect": "^2.19.0",
