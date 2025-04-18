@@ -368,7 +368,7 @@ export const projects = [
     ],
     category: "wordpress sites",
     github: "",
-    webapp: "www.lesmarmites.com",
+    webapp: "https://www.lesmarmites.com",
   },
   {
     id: 2,
